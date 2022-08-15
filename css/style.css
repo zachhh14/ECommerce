@@ -1,0 +1,17 @@
+.navbar-brand img{
+    width: 3rem !important;
+}
+.nav-link{
+    font-family: lato;
+    color: #722628 !important;
+    font-weight: 450;
+}
+
+.bg{
+    background: none;
+    border: none;
+}
+
+
+
+
